@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67e518915cecb675f88fb438_d813cf5a-9f69-40e1-a299-d735fc1fa715",
+  "id": "页面1_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "页面1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
